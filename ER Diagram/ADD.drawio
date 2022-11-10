@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T15:58:18.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="pEDdRw8PCnhlDhzA1nCP" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T15:58:58.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="uv6Si3nguEz4moC8RIz5" version="20.5.3" type="github">
   <diagram id="gSVBPUJjGzlbWMwJn6Da" name="Page-1">
-    <mxGraphModel dx="885" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1273" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,7 +118,7 @@
         <mxCell id="eUsOwxWAGZ1qZX4Bw04E-44" value="id_servis_tambahan" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="eUsOwxWAGZ1qZX4Bw04E-34" vertex="1">
           <mxGeometry y="120" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eUsOwxWAGZ1qZX4Bw04E-45" value="seq_no" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="eUsOwxWAGZ1qZX4Bw04E-34" vertex="1">
+        <mxCell id="eUsOwxWAGZ1qZX4Bw04E-45" value="no_urut_check_in" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="eUsOwxWAGZ1qZX4Bw04E-34" vertex="1">
           <mxGeometry y="150" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eUsOwxWAGZ1qZX4Bw04E-37" value="nama_penumpang" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="eUsOwxWAGZ1qZX4Bw04E-34" vertex="1">
