@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T12:16:35.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ch-Lj7D1InZuxjij0THh" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-16T12:21:28.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="1UZHkyzLgfwFPLAt3PBj" version="20.5.3" type="github" pages="2">
   <diagram id="gSVBPUJjGzlbWMwJn6Da" name="Relasi Entitas">
     <mxGraphModel dx="868" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -272,7 +272,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CQO1slFtSC0W5WltkF4u" name="ER-Diagram">
-    <mxGraphModel dx="2170" dy="983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1929" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -505,25 +505,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LiE9dQvSeZkpO_dIyxeo-90" value="Penumpang" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1425" y="775" width="120" height="60" as="geometry" />
+          <mxGeometry x="1390" y="736.8" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiE9dQvSeZkpO_dIyxeo-91" value="id_penumpang" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1315" y="715" width="100" height="40" as="geometry" />
+          <mxGeometry x="1264.59" y="710" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LiE9dQvSeZkpO_dIyxeo-92" value="nama_depan" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1380" y="655" width="110" height="40" as="geometry" />
+          <mxGeometry x="1330" y="650" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LiE9dQvSeZkpO_dIyxeo-93" value="nama_belakang" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1485" y="870" width="110" height="40" as="geometry" />
+          <mxGeometry x="1415" y="856.8" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LiE9dQvSeZkpO_dIyxeo-94" value="no_telp" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1260" y="780" width="140" height="40" as="geometry" />
+          <mxGeometry x="1230" y="780" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LiE9dQvSeZkpO_dIyxeo-95" value="tanggal_lahir" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1350" y="870" width="110" height="40" as="geometry" />
+          <mxGeometry x="1290" y="856.8" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LiE9dQvSeZkpO_dIyxeo-97" value="jenis_kelamin" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1545" y="690" width="110" height="40" as="geometry" />
+          <mxGeometry x="1495" y="680" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LiE9dQvSeZkpO_dIyxeo-99" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="LiE9dQvSeZkpO_dIyxeo-90" target="LiE9dQvSeZkpO_dIyxeo-91" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -562,10 +562,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LiE9dQvSeZkpO_dIyxeo-107" value="kewarganegaraan" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1585" y="735" width="130" height="40" as="geometry" />
+          <mxGeometry x="1520" y="740" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LiE9dQvSeZkpO_dIyxeo-108" value="email" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1585" y="830" width="130" height="40" as="geometry" />
+          <mxGeometry x="1485" y="816.8" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LiE9dQvSeZkpO_dIyxeo-109" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="LiE9dQvSeZkpO_dIyxeo-90" target="LiE9dQvSeZkpO_dIyxeo-107" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
